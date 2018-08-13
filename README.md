@@ -1,2 +1,5 @@
 # node-server-app
-* Using the previous example as a guide, create an app that has two web servers. * One that listens on port 7000 and one that listens on port 7500. * The one listening on port 7000 will always tell the user something good about themselves. * The one listening on 7500 will always tell the user something bad about themselves.
+* Basic app that has two web servers. 
+* One server listens on port 7000 and one listens on port 7500. 
+* The one listening on port 7000 will always tell the user something good about themselves. 
+* The one listening on 7500 will always tell the user something bad about themselves.
